@@ -1,5 +1,5 @@
 # 3D-Printed-RC-Plane
-This is my 3D printed plane that is made from parts from Aliexpress and assembled by yours truly. Still in development and is hoped to be funded through Hack Club!
+This is my 3D printed plane that is made from parts from Aliexpress and assembled by yours truly. Still in development and is hoped to be funded through Hack Club! I wanted to make this because I used to have RC cars and things when I was younger but I thought it would be really cool if i could build the same thing myself (and maybe a little more power....)
 
 <img width="1467" height="721" alt="image" src="https://github.com/user-attachments/assets/f722a60d-0bc7-4b8c-810d-51a71fe6d749" />
 
